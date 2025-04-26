@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: f4764cf1697a2e942bf1915e9d5ecc4b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: c5e95bd8b4cb81c41870d0805597e866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Huevo_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 306
+      width: 110
+      height: 143
+    spriteID: f816902001d873f4e8dca4c27c7b5942
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 306}
+    spritePosition: {x: 38, y: 900}
+  - name: Huevo_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 457
+      width: 110
+      height: 143
+    spriteID: e52d69f2ffdcb704fbd613ee2a1560ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 457}
+    spritePosition: {x: 172, y: 899}
+  - name: Huevo_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 608
+      width: 110
+      height: 143
+    spriteID: a3f2cede88370f243a09f1e9d84f0d94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 608}
+    spritePosition: {x: 306, y: 897}
+  - name: Huevo_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 759
+      width: 110
+      height: 143
+    spriteID: 8136261d172eb9a42b9e1d5a47e63985
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 759}
+    spritePosition: {x: 438, y: 899}
+  - name: Huevo_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 110
+      height: 143
+    spriteID: 5d9c790be7c71c445a6d82d346da9b83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+    spritePosition: {x: 36, y: 707}
+  - name: Huevo_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 155
+      width: 110
+      height: 142
+    spriteID: d259ab66e448627438241a73d35dbb04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 155}
+    spritePosition: {x: 167, y: 708}
+  - name: Huevo_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 155
+      width: 110
+      height: 143
+    spriteID: f5a4a70d8c4048e488e1c7c0c4c1ff6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 155}
+    spritePosition: {x: 301, y: 708}
+  - name: Huevo_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 305
+      width: 110
+      height: 142
+    spriteID: 3812b3646adbbdd4196aa78a7d479962
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 305}
+    spritePosition: {x: 436, y: 707}
+  - name: Huevo_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 306
+      width: 110
+      height: 143
+    spriteID: a2ab32f5019df1e4da0c0960fa75f64a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 306}
+    spritePosition: {x: 439, y: 539}
+  - name: Huevo_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 121
+      height: 143
+    spriteID: 0dee14b6913f22749aa1acdffe733d88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 294, y: 538}
+  - name: Huevo_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 457
+      width: 110
+      height: 143
+    spriteID: e650cb8d573f3ec47a980efbef4c751e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 457}
+    spritePosition: {x: 163, y: 535}
+  - name: Huevo_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 608
+      width: 110
+      height: 143
+    spriteID: 336655b630e6ab64aab291fd0b7366e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 608}
+    spritePosition: {x: 33, y: 537}
+  - name: Huevo_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 910
+      width: 111
+      height: 102
+    spriteID: 23c4b0674ecbcc0469583accd6153d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 910}
+    spritePosition: {x: 173, y: 352}
+  - name: Huevo_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 455
+      width: 110
+      height: 141
+    spriteID: 7f22b946557b0124a87d5fb6694da4c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 455}
+    spritePosition: {x: 304, y: 355}
+  - name: Huevo_Dorado_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 111
+      height: 143
+    spriteID: f957e8123a8e07c49af34fc44028855e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+    spritePosition: {x: 655, y: 707}
+  - name: Huevo_Dorado_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 759
+      width: 110
+      height: 143
+    spriteID: eb4531fa93b63224e8528f9e809e8b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 759}
+    spritePosition: {x: 723, y: 537}
+  - name: Huevo_Doreado_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 4
+      width: 110
+      height: 143
+    spriteID: 5e444992c4574f944806a229e8adf11d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 4}
+    spritePosition: {x: 583, y: 534}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Huevo_1
+    spriteName: Huevo_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f816902001d873f4e8dca4c27c7b5942
+    layerID: 63
+    mosaicPosition: {x: 4, y: 306}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_2
+    spriteName: Huevo_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e52d69f2ffdcb704fbd613ee2a1560ac
+    layerID: 64
+    mosaicPosition: {x: 4, y: 457}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_3
+    spriteName: Huevo_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a3f2cede88370f243a09f1e9d84f0d94
+    layerID: 65
+    mosaicPosition: {x: 4, y: 608}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_4
+    spriteName: Huevo_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8136261d172eb9a42b9e1d5a47e63985
+    layerID: 66
+    mosaicPosition: {x: 4, y: 759}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_5
+    spriteName: Huevo_5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d9c790be7c71c445a6d82d346da9b83
+    layerID: 67
+    mosaicPosition: {x: 133, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_6
+    spriteName: Huevo_6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d259ab66e448627438241a73d35dbb04
+    layerID: 68
+    mosaicPosition: {x: 251, y: 155}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_7
+    spriteName: Huevo_7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5a4a70d8c4048e488e1c7c0c4c1ff6e
+    layerID: 69
+    mosaicPosition: {x: 133, y: 155}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_8
+    spriteName: Huevo_8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3812b3646adbbdd4196aa78a7d479962
+    layerID: 70
+    mosaicPosition: {x: 251, y: 305}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_9
+    spriteName: Huevo_9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2ab32f5019df1e4da0c0960fa75f64a
+    layerID: 74
+    mosaicPosition: {x: 133, y: 306}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_10
+    spriteName: Huevo_10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0dee14b6913f22749aa1acdffe733d88
+    layerID: 75
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_11
+    spriteName: Huevo_11
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e650cb8d573f3ec47a980efbef4c751e
+    layerID: 76
+    mosaicPosition: {x: 133, y: 457}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_12
+    spriteName: Huevo_12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 336655b630e6ab64aab291fd0b7366e4
+    layerID: 77
+    mosaicPosition: {x: 133, y: 608}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_13
+    spriteName: Huevo_13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23c4b0674ecbcc0469583accd6153d26
+    layerID: 78
+    mosaicPosition: {x: 4, y: 910}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_14
+    spriteName: Huevo_14
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7f22b946557b0124a87d5fb6694da4c5
+    layerID: 79
+    mosaicPosition: {x: 251, y: 455}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_Dorado_1
+    spriteName: Huevo_Dorado_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f957e8123a8e07c49af34fc44028855e
+    layerID: 71
+    mosaicPosition: {x: 4, y: 155}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_Dorado_2
+    spriteName: Huevo_Dorado_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb4531fa93b63224e8528f9e809e8b29
+    layerID: 72
+    mosaicPosition: {x: 133, y: 759}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Huevo_Doreado_3
+    spriteName: Huevo_Doreado_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e444992c4574f944806a229e8adf11d
+    layerID: 73
+    mosaicPosition: {x: 251, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
