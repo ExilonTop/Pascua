@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Unity.Properties;
 using UnityEngine;
 using static Unity.VisualScripting.Member;
@@ -6,8 +7,8 @@ public class EggController : MonoBehaviour
 {
     [SerializeField] int scoreToGive;
     [SerializeField] bool isLargeEgg, isHouse, isBalloonEgg;
-    [SerializeField] System.Collections.Generic.List<Sprite> smallEggSprites;
-    [SerializeField] System.Collections.Generic.List<Sprite> largeEggSprite;
+    [SerializeField] List<Sprite> smallEggSprites;
+    [SerializeField] List<Sprite> largeEggSprite;
 
     [SerializeField] SpriteRenderer spriteRenderer;
 

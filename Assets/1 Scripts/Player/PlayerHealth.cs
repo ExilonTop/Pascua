@@ -1,6 +1,7 @@
 using System.Threading.Tasks;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class PlayerHealth : MonoBehaviour
 
     public static event System.Action OnPlayerDeath;
     public static event System.Action OnHealthLost;
+
+    public UnityEvent eventsToDeath;
 
     private void OnEnable()
     {
@@ -28,10 +31,7 @@ public class PlayerHealth : MonoBehaviour
 
     private void Update()
     {
-        if(transform.position.y< -12f)
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(2);
-        }
+        if(transform.position.y < -12f) PlayerDeath();
     }
     void LowerHealth(int a)
     {
@@ -76,8 +76,9 @@ public class PlayerHealth : MonoBehaviour
 
     void PlayerDeath()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(2);
-        OnPlayerDeath?.Invoke();
+        //UnityEngine.SceneManagement.SceneManager.LoadScene(2);
+        //OnPlayerDeath?.Invoke();
+        eventsToDeath?.Invoke();
     }
 
     private void OnDisable()
