@@ -83,5 +83,7 @@ public class UIManager : MonoBehaviour
         EggController.IncreaseScore -= IncreaseScore;
         DamageGiver.OnPlayerHit -= DecreaseScore;
         PlayerHealth.OnHealthLost -= UpdatePlayerHealth;
+        PlayerEggController.OnLargeEggAdded -= UpdateLargeEggUI;
+        PlayerEggController.OnLargeEggLost -= UpdateLargeEggUI;
     }
 }
