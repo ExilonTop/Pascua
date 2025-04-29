@@ -450,6 +450,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_cg: {fileID: 1095058028}
+  timeBeforeTransition: 1
   timeTransition: 2
 --- !u!1 &246716369
 GameObject:
